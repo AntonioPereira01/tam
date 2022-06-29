@@ -1,0 +1,4 @@
+Flask
+gunicorn
+psycopg2
+djangorestframework-jwt==1.11.0
